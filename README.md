@@ -1,17 +1,19 @@
-Mohamed Bouzenad | Environmental Data Analyst and GIS Specialist
-Welcome to my resume repository. I am an environmental scientist specialized in spatial data analysis, remote sensing, and GIS. My work focuses on bridging the gap between field data collection and advanced data processing to extract actionable environmental metrics.
+# Mohamed Bouzenad | Environmental Data Analyst and GIS Specialist
 
-In this repository, you will find my updated resumes detailing my academic and professional background.
+Welcome to my resume repository. I am an environmental scientist specializing in spatial data analysis, remote sensing, and GIS. My work focuses on bridging the gap between field data collection and advanced data processing to extract actionable environmental metrics.
 
-Core Technical Skills
-Spatial Data Analysis (QGIS, PostGIS, ArcGIS)
+### Available Resumes
 
-Programming and Automation (Python, SQL)
+I have provided my resume in three languages. Feel free to open the PDF file that best suits your needs:
 
-Remote Sensing (LIDAR, Photogrammetry, Thermal sensors)
+* **EN** : English version
+* **C2** : French version
+* **DE** : German version
 
-Field Work (UAV piloting, high precision GNSS)
+### Core Technical Skills
 
-Environmental Modeling and Deep Learning
-
-Feel free to open the PDF files to review my complete profile.
+* **Spatial Data Analysis** : QGIS, PostGIS, ArcGIS
+* **Programming and Automation** : Python, SQL
+* **Remote Sensing** : LIDAR, Photogrammetry, Thermal sensors
+* **Field Work** : UAV piloting, high precision GNSS
+* **Advanced Analytics** : Environmental Modeling, Deep Learning
